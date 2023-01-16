@@ -24,7 +24,6 @@
 
 ## Find me else where
 <a href="https://www.linkedin.com/in/hwi-min-44269423b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC9aPghOPSXzbhxHZznbWXDw/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 ## CAT😺 TIME
 ![image](https://user-images.githubusercontent.com/53958188/185136029-1a31dd46-9cae-471c-893d-1c479d8dc303.png)
