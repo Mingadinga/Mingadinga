@@ -1,13 +1,7 @@
-# 현대오토에버 AWS 빌링 직무 지원
-링크 길이가 제한되어, 깃허브 프로필에 포트폴리오를 첨부합니다. 감사합니다.
-- 노션으로 확인하기 : https://uncovered-chocolate-cea.notion.site/AWS-d607cf2071e349508df3dd7329b3e748?pvs=4
-- pdf로 확인하기 : https://drive.google.com/file/d/15-00Dj8HfV2wtIsN5Nkkl3NBGTtx3om-/view?usp=sharing
-<br><br>노션과 pdf 내용은 동일합니다.<br><br>
-
 # Hi there!👋 I'm Min Hwi.
 - I am CS Student of Sookmyung Women's University
 - I am interested in BackEnd Engineering and Cloud Architecture
-- My Blog : [Velog](https://velog.io/@mingadinga_1234)
+- My Blog : [T Story](https://minforbackup.tistory.com/)
 - How to Reach Me : minpearl0826@gmail.com
 
 ##  Tech Stack
